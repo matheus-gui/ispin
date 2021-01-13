@@ -1,0 +1,20 @@
+.foto-empresa{
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.info-empresa span{
+    vertical-align: middle;
+    color: #626264;
+    margin-right: 10px;
+}
+
+.info-empresa span.mdi-star{
+    color: yellow;
+}
+
+.info-empresa{
+    font-size: 13px;
+    vertical-align: middle;
+    color: #626264;
+}

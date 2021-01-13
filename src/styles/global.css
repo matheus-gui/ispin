@@ -32,7 +32,17 @@ input[type='email']:disabled,
 input[type='password']:disabled,
 input[type='date']:disabled{
     font-size: 15px;
-    background-color: #f6f5f5;
+    background: #f6f5f5;
+    outline: none;
     border: 0.5px solid #dcdcdc;
+    color: #626264;
+}
 
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:disabled,
+.btn-primary:hover{
+    background-color: var(--primary) !important;
+    border-color: var(--primary);
 }

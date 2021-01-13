@@ -1,5 +1,4 @@
 import Header from '../../components/header';
-
 import Illustration from '../../assets/illustration.png'
 
 
@@ -17,7 +16,9 @@ const Cadastro = () => {
 
                 <div className="col-6">
                     <div className="box col-8">
-                        <h2 className="text-center mb-4">Falta pouco para sua obra ficar pronta.</h2>
+                        <h2 className="text-center ">Falta pouco para sua obra ficar pronta.</h2>
+                        <br></br>
+                        <br></br>
                         <input 
                             type="text"
                             className="form-control form-control-lg mb-3"
