@@ -6,7 +6,7 @@ const Cadastro = () => {
     return ( 
         <div className="container-fluid h-100 bg-primary">
             
-            <Header></Header>
+            <Header hideCart></Header>
 
             <div className="row mt-4">
                 

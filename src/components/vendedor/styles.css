@@ -1,0 +1,28 @@
+.vendedor{
+    list-style: none;
+    padding: 7px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border-bottom: 3px;
+}
+
+.vendedor img {
+    width: 80px;
+    border-radius: 5px;
+    vertical-align: baseline;
+}
+
+.vendedor b{
+    margin-bottom: 0;
+}
+
+.info-empresa span{
+    vertical-align: middle;
+    color: #626264;
+}
+
+.info-empresa span.mdi-star{
+    color: yellow;
+}
+
+ 
